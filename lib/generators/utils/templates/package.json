@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "description": "工具库",
   "main": "lib/index.js",
+  "files": [
+    "dist",
+    "lib",
+    "es"
+  ],
   "scripts": {
     "build": "father build",
     "lint": "eslint src",
